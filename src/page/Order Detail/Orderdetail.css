@@ -1,0 +1,85 @@
+.icon-bg-color-main-two {
+    Width: 100%;
+    Height: auto;
+    margin: 30px;
+    background: rgba(225, 255, 251, 0.75);
+    box-shadow: 0px 4px 4px rgba(9, 31, 87, 0.25);
+    border-radius: 24px;
+    justify-content: space-evenly;
+}
+
+.button-section .btn {
+    background-color: #3B968A;
+    Width: 200px;
+    Height: 38px;
+    margin: 0px 0px 10px;
+}
+
+.button-section-two .btn {
+    background-color: white;
+    border: 1px solid #3B968A;
+    margin: 0px 0px 10px;
+}
+
+.abc-text p {
+    padding: 0px 10px;
+}
+
+.button-section .btn {
+    padding: 0 10px;
+    color: white;
+}
+
+.button-section-two .btn {
+    color: #3B968A;
+}
+
+.detail-text p {
+    padding: 0 10px;
+}
+
+
+.payment-text p {
+    padding: 0 10px;
+}
+
+
+.abc-text h5 {
+    color: #0C1947;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.detail-text h5 {
+    color: #0C1947;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+
+.payment-text h5 {
+    color: #0C1947;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+
+.payment-tex h5 {
+    color: #0C1947;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+
+.button-section {
+    padding: 0 10px;
+}
+
+.image-small-one img {
+    Width: 100px;
+    Height: 115.15px;
+}
+
+.welcom-text .btn {
+    color: #3B968A;
+}

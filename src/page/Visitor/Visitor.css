@@ -1,0 +1,25 @@
+.bg-color-box-section {
+    Width: 350px;
+    Height: 147px;
+    background-color: #E1FFFB;
+    border-radius: 15px;
+
+}
+
+.welcom-bg-section-two {
+    background-color: white;
+    border-radius: 15px;
+    padding:    20px;
+}
+
+.bg-color-box-section {
+    margin: 10px 0 0px 10px;
+}
+
+.main-image-order-section-two img {
+    margin: 20px;
+}
+
+.Visitor-text-main {
+    margin-top: 20px;
+}

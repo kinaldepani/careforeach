@@ -1,0 +1,24 @@
+.icon-bg-color-main-three {
+    Width: 480px;
+    Height: 200px;
+    margin: 17px;
+    background: rgba(225, 255, 251, 0.75);
+    box-shadow: 0px 4px 4px rgba(9, 31, 87, 0.25);
+    border-radius: 24px;
+}
+
+.main-image-order-section img {
+    Width: 128px;
+    Height: 127.88px;
+    margin-top: 25px;
+}
+
+.HIGHLANDER-text-section h5 {
+    margin-top: 30px;
+    margin-left: 20px;
+}
+
+.HIGHLANDER-text-section h6 {
+    /* margin-top: 20px; */
+    margin-left: 20px;
+}

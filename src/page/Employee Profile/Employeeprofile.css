@@ -1,0 +1,17 @@
+.text-input-bg-color-main input {
+    background-color: #D3E0FF;
+}
+
+.Employee-Profile-section-main {
+    margin-top: 130px;
+}
+
+.Delete-profile-section .btn {
+    background-color: #3B968A;
+    Width: 315.09px;
+    Height: 46.05px;
+    color: white;
+    font-weight: 600;
+    font-size: 22px;
+    margin-bottom: 20px;
+}

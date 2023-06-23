@@ -1,0 +1,31 @@
+.main-section-dashboard {
+    width: 100%;
+
+}
+
+.icon-bg-color-main-one {
+    /* height: 180px;
+    width: 238px; */
+    Width: 350px;
+    Height: auto;
+    margin: 30px;
+    background: rgba(225, 255, 251, 0.75);
+    box-shadow: 0px 4px 4px rgba(9, 31, 87, 0.25);
+    border-radius: 24px;
+
+}
+
+.i-card-main-section p {
+    font-size: 14px;
+}
+
+.welcom-text .btn {
+    background-color: white;
+    border: 1px solid #3B968A;
+    width: 144px;
+    justify-content: space-between;
+}
+
+.dropdown {
+    padding-right: 20px;
+}

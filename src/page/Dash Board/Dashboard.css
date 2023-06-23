@@ -1,0 +1,120 @@
+body {
+    background: rgba(225, 255, 251, 0.75);
+}
+
+.form-group {
+    margin-top: 25px;
+    /* margin-left: 18px; */
+}
+
+.form-group input {
+    color: #7D8592;
+}
+
+.commant-btn {
+    background-color: #71C1AD;
+    height: 46px;
+    width: 47px;
+    text-align: center;
+    border-radius: 10px;
+    padding-top: 10px;
+    margin: 18px 20px;
+}
+
+.photo-section .dropdown {
+    margin: 15px 20px;
+    background-color: #71C1AD;
+    padding: 2px;
+    border-radius: 14px;
+}
+
+.photo-section .btn {
+    color: white;
+}
+
+.welcom-text p {
+    font-size: 20px;
+    padding-left: 20px;
+    color: #7D8592;
+}
+
+.welcom-text h1 {
+    font-size: 30px;
+    padding-left: 20px;
+    color: #091F57;
+    font-weight: bold;
+}
+
+
+.welcom-bg-section {
+    background-color: white;
+    height: auto;
+    border-radius: 24px;
+}
+
+.icon-bg-color-main {
+    height: 180px;
+    width: 238px;
+    margin: 30px;
+    background: rgba(225, 255, 251, 0.75);
+    box-shadow: 0px 4px 4px rgba(9, 31, 87, 0.25);
+    border-radius: 24px;
+
+}
+
+.image-small {
+    margin-top: 30px;
+}
+
+
+.image-small img {
+    height: 70px;
+    width: 80px;
+}
+
+.image-small-six img {
+    height: 70px;
+    width: 80px;
+}
+
+
+.image-small-six {
+    margin-top: 30px;
+}
+
+.image-small-six h5 {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.image-small h5 {
+    margin-top: 20px;
+    text-align: center;
+    color: #091F57;
+}
+
+
+.main {
+    width: 50%;
+    margin: 50px auto;
+}
+
+.has-search .form-control {
+    padding-left: 2.375rem;
+}
+
+.has-search .form-control-feedback {
+    position: absolute;
+    z-index: 2;
+    display: block;
+    width: 2.375rem;
+    height: 2.375rem;
+    line-height: 2.375rem;
+    text-align: center;
+    pointer-events: none;
+    color: black;
+}
+
+.main-section-bg {
+    margin: 25px;
+}

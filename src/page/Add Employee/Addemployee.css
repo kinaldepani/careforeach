@@ -1,0 +1,81 @@
+.white-bg-color-main-section {
+    Width: 1052px;
+    Height: auto;
+    background-color: #E1FFFB;
+    border-radius: 15px;
+
+}
+
+.welcom-bg-section-one {
+    Width: 95%;
+    Height: auto;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    padding-top: 32px;
+    border-radius: 15px;
+    margin-top: 20px;
+    padding-bottom: 35px;
+}
+
+.uplode-img-section img {
+    text-align: center;
+    Width: 170.51px;
+    Height: 202.77px;
+}
+
+.uplode-img-section {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.btn-section-uplode-photo label {
+    color: #0C1947;
+    font-size: 32px;
+    font-weight: 500;
+}
+
+.text-input-section .form-control {
+    Width: 400px;
+    Height: 45px;
+}
+
+.form-floating input {
+    border-bottom: #0C1947 3px solid;
+}
+
+.text-input-section {
+    display: flex;
+    justify-content: center;
+
+}
+
+.text-input-section label {
+    color: #0C1947;
+    font-size: 18px;
+    padding-top: 8px;
+}
+
+.Address-section {
+    margin-top: 100px;
+}
+
+
+.addemployee .btn {
+    background-color: #3B968A;
+    Width: 304px;
+    Height: 50px;
+    color: white;
+    font-size: 20px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+.addemployee {
+    display: flex;
+    justify-content: center;
+}
+
+.text-input-section-one-main-color .form-floating input {
+    background-color: #D3E0FF;
+}

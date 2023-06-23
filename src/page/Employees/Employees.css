@@ -1,0 +1,53 @@
+.icon-bg-color-main-four {
+    Width: 350px;
+    Height: 147px;
+    margin: 6px;
+    background: rgba(225, 255, 251, 0.75);
+    box-shadow: 0px 4px 4px rgba(9, 31, 87, 0.25);
+    border-radius: 24px;
+}
+
+.main-image-order-section-one {
+    margin-top: 15px;
+}
+
+.person-text-main p {
+    color: black;
+    font-size: 14px;
+}
+
+.call-btn-section .btn {
+    background-color: white;
+    Width: 100px;
+    Height: 37px;
+    border: 2px solid #3B968A;
+    border-radius: 15px;
+    font-size: 13px;
+    font-weight: 600;
+    margin: 1px;
+}
+
+.call-btn-section img {
+    margin-bottom: 5px;
+    margin: 1px;
+    margin-right: 3px;
+}
+
+.call-btn-section {
+    margin: 10px;
+}
+
+.addemployee-section .btn {
+    background-color: #091F57;
+    Width: 230px;
+    Height: 70px;
+    border-radius: 16px;
+    color: white;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+
+.addemployee-section {
+    text-align: end;
+}
